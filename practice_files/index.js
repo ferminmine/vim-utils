@@ -5,7 +5,6 @@ const suma = (ns) => {
   for (i = 0; i < ns.length; i++) {
     acumulado += ns[i];
   }
-
   return acumulado;
 } 
 
