@@ -3,6 +3,8 @@ Just install vim in your OS, and then install the Plugin manager `junegunn/vim-p
 
 In Linux, to set Vim as the default text editor instead of Nano: execute the command `sudo update-alternatives --config editor` and choose vim.basic.
 
+*Importat*: In Linux, to have a good and intuitive use of the clipboard just install the library with the command `sudo apt-get install vim-gui-common`.
+
 ### Section 1 Basic Commands
 - Moving Cursor: hjkl, w, b & e.
 - Insert text: i, a & A (end of line)
